@@ -23,7 +23,8 @@ Content:
 ![Alt text](IMG_2030.jpg) Outcome with two tegs:
 ![Alt text](IMG_2031.jpg) Outcome with three tegs:
 
-[![Alt text](Srenn.jpeg)](trimiteg1.mov)
+[Link to Video](trimiteg1.mov)
+
 
 
 
