@@ -23,7 +23,7 @@ Content:
 ![Alt text](IMG_2030.jpg) Outcome with two tegs:
 ![Alt text](IMG_2031.jpg) Outcome with three tegs:
 
-[![Alt text](Screenshot 2024-02-15 at 22.45.20.png)](trimiteg1.mov)
+[![Alt text](Srenn.jpeg)](trimiteg1.mov)
 
 
 
