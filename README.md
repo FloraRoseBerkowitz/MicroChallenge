@@ -3,8 +3,7 @@ MicroChallenge-ThermoElectricGeneratorManujaFlora
 
 
 
-
-
+![Alt text](URL)
 
 
 
