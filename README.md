@@ -23,6 +23,8 @@ Content:
 
 ![Alt text](trimiteg1.gif)
 
+<img src="trimiteg1.gif" alt="Alt text" width="40%">
+
 Useful links 
 [Link to spreadsheet](https://mdef.fablabbcn.org/2023-24/year-1/t2/digital-prototyping-for-design/](https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)
 
