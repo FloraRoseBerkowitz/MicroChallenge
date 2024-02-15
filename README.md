@@ -7,7 +7,7 @@ Hi, it's Manuja and Flora.
 Content:
 1. What is a thermo electric generator aka. peltier aka. teg?
 2. How can we use it to produce electricity?
-4. How much electricity? 
+4. How much electricity? Going from 1.7V more or less 100 degrees / 2.4V 130 degrees / 5V 200 degrees
 5. What can you do with different numbers of devices, potentially?
 6. In which way?
 7. Sources of heat?
