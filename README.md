@@ -21,8 +21,6 @@ Content:
 ![Alt text](IMG_2030.jpg) Outcome with two tegs:
 ![Alt text](IMG_2031.jpg) Outcome with three tegs:
 
-![Alt text](trimiteg1.gif)
-
 <img src="trimiteg1.gif" alt="Alt text" width="40%">
 
 Useful links 
