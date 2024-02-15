@@ -18,20 +18,10 @@ Content:
 12. The future with this?
 13. Process
 
-
-
 ![Alt text](IMG_2030.jpg) Outcome with two tegs:
 ![Alt text](IMG_2031.jpg) Outcome with three tegs:
 
-[Link to Video](trimiteg1.mov)
-
-
-
-
-
-
-
-
+![Alt text](trimiteg1.gif)
 
 Useful links 
 [Link to spreadsheet](https://mdef.fablabbcn.org/2023-24/year-1/t2/digital-prototyping-for-design/](https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)
