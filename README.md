@@ -3,7 +3,8 @@ MicroChallenge-ThermoElectricGeneratorManujaFlora
 
 
 
-![Alt text](IMG2030)
+![Alt text](IMG_2030.jpg)
+
 
 
 
