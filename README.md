@@ -45,8 +45,7 @@ It would be also interesting to test we different conductive materials and isola
 
     
 
-      
-![Alt text](IMG-20240216-WA0029)
+   
 
 Content:
 1. What is a thermo electric generator aka. peltier aka. teg?
