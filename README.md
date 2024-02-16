@@ -4,7 +4,7 @@ MicroChallenge-ThermoElectricGeneratorManujaFlora
 Hi, it's Manuja and Flora.
 We initally began brainstorming with our individual interests to sort out our project aim. Manuja's interests lie in biomaterials, solar energy and generating electricity through unconventional electronics. FLora's interests lie in exploring with electronics, human and non-human collaborations and diffusion of knowledge. Once we brainstormed a few ideas, we landed on the concept of wanting to generate electricity using any type of waste heat. After multiple discussions and brainstorming ideas, we know our purpose statement - How might we develop an installation that effectively utilises the difference in heat energy or uses waste heat energy to drive an interactive digital visualisation. Please keep reading to see how we managed to fail multiple times without even realising that we succeeded in one of those failures.
 
-[Link to spreadsheet](<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+[Link to presentation](<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
