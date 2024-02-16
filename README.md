@@ -21,10 +21,10 @@ We initally began brainstorming with our individual interests to sort out our pr
 Testing the storage of energy with a rechargeable battery INR18650 lithium-ion and a 18650 battery shield:
 - Specifications of 18650 battery shield:
 <img src="IMG-20240216-WA0005.jpg" alt="Alt text" width="33.33%">
-- Micro Usb port input
-- USB output
-- Led indication
-- !Be careful with the cables! Don't create a short circuit!
+ - Micro Usb port input
+ - USB output
+ - Led indication
+ - !Be careful with the cables! Don't create a short circuit!
 
 Range of battery:
 - Current in A: 2.75 A to 5.5 A
