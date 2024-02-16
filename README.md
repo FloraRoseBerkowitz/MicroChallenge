@@ -67,7 +67,7 @@ What you need:
 - Step 4: Led light
 - Step 5: cables
 - Step 6: sign to be projected on wall 3D printed
-<img src="cura.png" alt="Alt text" width="40%"> <img src="IMG_2047.jpg" alt="Alt text" width="30"> ![Alt text](IMG_2047.jpg)
+<img src="cura.png" alt="Alt text" width="40%"> <img src="IMG_2047.jpg" alt="Alt text" width="40"> 
 
 Our Learnings:
 ELECTRONIC DEVICES ARE NO JOKE!!
