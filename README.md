@@ -19,15 +19,15 @@ We initally began brainstorming with our individual interests to sort out our pr
     Cooking stove: around 150 degrees 3V
 
 Testing the storage of energy with a rechargeable battery INR18650 lithium-ion and a 18650 battery shield:
-Specifications of 18650 battery shield: 
-Micro Usb port input
-USB output
-Led indication
-!Be careful with the cables! Don't create a short circuit!
+- Specifications of 18650 battery shield: 
+- Micro Usb port input
+- USB output
+- Led indication
+- !Be careful with the cables! Don't create a short circuit!
 
 Range of battery:
-Current voltage in A:
-Electrical voltage in V:
+- Current in A: 2.75 A to 5.5 A
+- Electrical voltage in V: 3.65V to 4.2V
 
 From that we understood that if we stayed in between a range of 3.6 V and 4.2V at 150 degrees (stabilised), if the battery was not completely uncharged, for about 10 minutes, we could recharge it of +- 0.15 Volts. We think. Needs more testing to be 100% sure.
 
