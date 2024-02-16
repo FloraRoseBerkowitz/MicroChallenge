@@ -67,7 +67,16 @@ What you need:
 - Step 4: Led light
 - Step 5: cables
 - Step 6: sign to be projected on wall 3D printed
-<img src="cura.png" alt="Alt text" width="40%">
+<img src="cura.png" alt="Alt text" width="40%"> <img src="IMG_2047.jpg" alt="Alt text" width="40%">
+
+Our Learnings:
+ELECTRONIC DEVICES ARE NO JOKE!!
+- To be super careful and not burn ourselves 3 times
+- We learned how to charge a battery and store electricity in it
+- We learned how to discharge a battery
+- We learned how to keep a stable heat source temperature 
+- We learned the difference between charging voltage, nominal voltage, charging current and how to calculate the charging time. 
+- We learned a lot of electrical physics 
 
 The Future:
 - This initial stepping stone of this project has a lot of potential. Experimenting with a TEG and being able to store electricity in a battery is not revolutionary, but if given more time, there are countless variations that we want to try. 
