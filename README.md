@@ -8,7 +8,7 @@ Content:
 1. What is a thermo electric generator aka. peltier aka. TEG?
   - A thermoelectric generator is a device that converts heat energy directly into electrical energy through the Seebeck effect. This effect occurs when a temperature difference is applied across a semiconductor material, causing a voltage difference and thus generating electricity. Thermoelectric generators are often used in situations where there's a temperature gradient available, such as in waste heat recovery, portable power generation, or spacecraft. They offer advantages like reliability, silent operation, and suitability for small-scale applications.
 
-<img src=" Screenshot 2024-02-15 at 22.45.20.png" alt="Alt text" width="40%">   
+<img src="article-2011october-thermoelectric-energy-harvesting-fig1.jpg" alt="Alt text" width="40%">   
 2. How can we use a TEG to produce electricity
    - This seemed like an interesting electrical component for us as it converted the difference in temeperatures to generate electricity. We used a somewhat stable heat source at the bottom plate and connected it directly with a multimeter to see how many volts it can generate with temperature differences.
    - Our very first test was with the sandwich grill machine in class, the highest temperature the  machine goes to is about 100° Celcius, which produces the highest voltage of about 1.70V, which just about enough to power a red LED bulb. We now knew that we needed more TEGs if we wanted to store electricity in a battery.
