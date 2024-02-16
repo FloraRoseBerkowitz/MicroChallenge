@@ -15,6 +15,7 @@ Content:
     - We asked the sweet Adai for more TEGs, in order to connect them all together, provide the same heat source to all three TEGs to generate a larger voltage. However, when we connected the three TEGs in series, gave it a stable heat source, the voltage produced was still the same - 1.7V. Even after countless tests, changing the temperature difference with an ice pack and literal fire, the voltage that the three TEGs producing together was still only around 1.7V. We need more time to test the TEGs in serie to see if we could potentially get the voltage higher, as seen on experimental videos.
 
 <img src="IMG_9922" alt="Alt text" width="40%">       
+![Alt text](IMG_9922)
 
 Content:
 1. What is a thermo electric generator aka. peltier aka. teg?
