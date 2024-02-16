@@ -18,7 +18,8 @@ We initally began brainstorming with our individual interests to sort out our pr
     Soldering iron at 200 degrees: 5V coming in
     Cooking stove: around 150 degrees 3V
 
-<img src="IMG-20240216-WA0015.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0016.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0024.jpg" alt="Alt text" width="33.33%">  <img src="IMG-20240216-WA0026.jpg" alt="Alt text" width="33.33%">
+<img src="IMG-20240216-WA0015.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0016.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0024.jpg" alt="Alt text" width="33.33%">  <img src="IMG-20240216-WA0026.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0027.jpg" alt="Alt text" width="33.33%">   
+
 
 Testing the storage of energy with a rechargeable battery INR18650 lithium-ion and a 18650 battery shield:
 - Specifications of 18650 battery shield:
