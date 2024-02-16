@@ -61,12 +61,12 @@ It would be also interesting to test we different conductive materials and isola
 
 Physical visual powered by energy harvested from thermo electric generator lol
 What you need:
-Step 1: Battery
-Step 2: Led light
-Step 3: tube
-Step 4: Led light
-Step 5: cables
-Step 6: sign to be projected on wall 3D printed
+- Step 1: Battery
+- Step 2: Led light
+- Step 3: tube
+- Step 4: Led light
+- Step 5: cables
+- Step 6: sign to be projected on wall 3D printed
 
 <img src="cura.png" alt="Alt text" width="40%">
 
