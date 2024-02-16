@@ -2,7 +2,7 @@
 MicroChallenge-ThermoElectricGeneratorManujaFlora
 
 Hi, it's Manuja and Flora.
-We initally began brainstorming with our individual interests to sort out our project aim. Manuja's interests lie in biomaterials, solar energy and generating electricity through unconventional electronics. FLora's interests lie in exploring with electronics, human and non-human collaborations and human machine collaboartion. Once we brainstormed a few ideas, we landed on the concept of wanting to generate electricity using any type of heat. After multiple discussions and brainstorming ideas, we know our purpose statement - How might we develop an installation that effectively utilises the difference in heat energy or uses waste heat energy to drive an interactive digital visualisation. Please keep reading to see how we managed to fail multiple times without even realising that we succeeded in one of those failures.
+We initally began brainstorming with our individual interests to sort out our project aim. Manuja's interests lie in biomaterials, solar energy and generating electricity through unconventional electronics. FLora's interests lie in exploring with electronics, human and non-human collaborations and diffusion of knowledge. Once we brainstormed a few ideas, we landed on the concept of wanting to generate electricity using any type of waste heat. After multiple discussions and brainstorming ideas, we know our purpose statement - How might we develop an installation that effectively utilises the difference in heat energy or uses waste heat energy to drive an interactive digital visualisation. Please keep reading to see how we managed to fail multiple times without even realising that we succeeded in one of those failures.
 
 1. What is a thermo electric generator aka. peltier aka. TEG?
    - A thermoelectric generator is a device that converts heat energy directly into electrical energy through the Seebeck effect. This effect occurs when a temperature difference is applied across a semiconductor material, causing a voltage difference and thus generating electricity. Thermoelectric generators are often used in situations where there's a temperature gradient available, such as in waste heat recovery, portable power generation, or spacecraft. They offer advantages like reliability, silent operation, and suitability for small-scale applications. 
@@ -67,9 +67,12 @@ What you need:
 - Step 4: Led light
 - Step 5: cables
 - Step 6: sign to be projected on wall 3D printed
-
 <img src="cura.png" alt="Alt text" width="40%">
 
+The Future:
+- This initial stepping stone of this project has a lot of potential. Experimenting with a TEG and being able to store electricity in a battery is not revolutionary, but if given more time, there are countless variations that we want to try. 
+- We would like to generate electricity using body heat, biomaterials, the sun, waste heat and many more different types of sustainable sources. 
+- We would also like to combine more electronic devices like the super sonic sensor to be able to visually change the display of the installation.
 
 References: 
 - [FlexibleThermoelecrticModule](https://phys.org/news/2018-12-flexible-thermoelectric-module-silver-bullet.html)
