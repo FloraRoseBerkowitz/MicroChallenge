@@ -19,7 +19,8 @@ We initally began brainstorming with our individual interests to sort out our pr
     Cooking stove: around 150 degrees 3V
 
 Testing the storage of energy with a rechargeable battery INR18650 lithium-ion and a 18650 battery shield:
-- Specifications of 18650 battery shield: <img src="IMG-20240216-WA0005.jpg" alt="Alt text" width="33.33%">
+- Specifications of 18650 battery shield:
+<img src="IMG-20240216-WA0005.jpg" alt="Alt text" width="33.33%">
 - Micro Usb port input
 - USB output
 - Led indication
