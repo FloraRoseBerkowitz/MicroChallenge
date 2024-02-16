@@ -20,7 +20,7 @@ We initally began brainstorming with our individual interests to sort out our pr
 
 Testing the storage of energy with a rechargeable battery INR18650 lithium-ion and a 18650 battery shield:
 - Specifications of 18650 battery shield:
-<img src="IMG-20240216-WA0005.jpg" alt="Alt text" width="33.33%">
+<img src="IMG-20240216-WA0005.jpg" alt="Alt text" width="33.33%"> <img src="IMG-20240216-WA0006.jpg" alt="Alt text" width="33.33%">
  - Micro Usb port input
  - USB output
  - Led indication
@@ -42,16 +42,9 @@ The devices we received from Adai either were completely bare or all had differe
 - The second one we received was completely bare, therefore it was quite hard to control he difference of temperature on both side. We didn't get a lot of results.(this one was damaged and the + wire broke during testing)
 - The two last were both connected to a smaller heatsink on the cold side, additionally we cut a thin layer of metal for the warm side. The results were not very good. we need more time to prototype a correct conductor for the warm side. We also had to be very careful with the cables of the TEG when using such high heat.
 
+
+
 It would be also interesting to test we different conductive materials and isolators to see if the results can be enhanced.
-
-    
-
-   
-
-
-11. Is it an effective way of capturing lost heat from devices?
-12. The future with this?
-13. Process
 
 
 
