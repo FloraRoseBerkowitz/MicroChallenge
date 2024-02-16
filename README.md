@@ -23,6 +23,16 @@ Content:
 
 <img src="trimiteg1.gif" alt="Alt text" width="40%">
 
+Physical visual powered by energy harvested from thermo electric generator lol
+What you need:
+Step 1: Battery
+Step 2: Led light
+Step 3: tube
+Step 4: Led light
+Step 5: cables
+Step 6: sign to be projected on wall 3D printed
+
+
 Useful links 
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)
 
