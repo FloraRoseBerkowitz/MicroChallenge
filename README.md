@@ -68,6 +68,11 @@ What you need:
 - Step 6: sign to be projected on wall 3D printed
 <img src="cura.png" alt="Alt text" width="40%"> 
 
+
+[Link to 3D model of batman sign](https://drive.google.com/file/d/1ds4Io29ru3Tk_5RxuHdrTQ-3UlXCAo7v/view?usp=drive_link)
+
+
+
 Our Learnings:
 ELECTRONIC DEVICES ARE NO JOKE!!
 - To be super careful and not burn ourselves 3 times
@@ -91,3 +96,10 @@ Useful links
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1xx-vDogvFZxxWVkE16zlOU1NbrjYh_qj2Mj9RpacV5w/edit#gid=0)
 
 [Link to MDEF website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/challenge/c_1/)
+
+
+[Link to Flora's website](https://floraroseberkowitz.github.io/)
+
+[Link to Manuja's website](https://manujaagnihotri.github.io/MDEFPortfolio/)
+
+
